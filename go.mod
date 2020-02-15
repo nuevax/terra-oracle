@@ -7,5 +7,5 @@ require (
 	github.com/spf13/viper v1.4.0
 	github.com/tendermint/go-amino v0.15.0
 	github.com/tendermint/tendermint v0.32.7
-	github.com/terra-project/core v0.3.0
+	github.com/terra-project/core v0.3.2
 )
